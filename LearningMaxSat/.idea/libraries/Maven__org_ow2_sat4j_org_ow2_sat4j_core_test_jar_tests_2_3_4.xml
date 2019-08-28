@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ow2.sat4j:org.ow2.sat4j.core:test-jar:tests:2.3.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/sat4j/org.ow2.sat4j.core/2.3.4/org.ow2.sat4j.core-2.3.4-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/sat4j/org.ow2.sat4j.core/2.3.4/org.ow2.sat4j.core-2.3.4-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ow2/sat4j/org.ow2.sat4j.core/2.3.4/org.ow2.sat4j.core-2.3.4-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
